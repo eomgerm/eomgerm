@@ -5,7 +5,7 @@
 "/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feomgerm&count_bg=%23FF5252&title_bg=%23535353&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
-[![wakatime](https://wakatime.com/badge/user/2bc3057d-356c-4085-8a40-dcf77da7bb8a.svg?style=flat)](https://wakatime.com/@2bc3057d-356c-4085-8a40-dcf77da7bb8a)
+[![wakatime](https://wakatime.com/badge/user/2bc3057d-356c-4085-8a40-dcf77da7bb8a.svg?style=flat-square)](https://wakatime.com/@2bc3057d-356c-4085-8a40-dcf77da7bb8a)
 
 <samp>I'm Gihoon Eom from 🇰🇷 Republic of Korea. You can call me **Gihoon**! I'm Undergraduate Student of Computer Science & Engeenering of Kyunghee University. I'm studying hard to be a **Full Stack Developer**. I like *Front-End* things more, but I am also interested in *Back-End* and wanna be a expert of it. I'm always open to your contacts so do not hesitate! </samp>
 
