@@ -63,7 +63,7 @@
 <div align="center">
 <h3>🏆 BOJ Profile 🏆</h3>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlgns0705)](https://solved.ac/rlgns0705)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgns0705)](https://solved.ac/rlgns0705)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlgns0705&theme=dark)
 
 </div>
