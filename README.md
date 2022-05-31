@@ -69,3 +69,5 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlgns0705&theme=dark)
 
 </div>
+
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914))
