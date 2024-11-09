@@ -47,6 +47,14 @@
 <div align="center">
 <h3>🐙 Github Profile 🐙</h3>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/eomgerm"
+  width="600"
+  height="300"
+/>
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomgerm&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![eomgerm's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomgerm&show_icons=true&bg_color=00000000)
 
