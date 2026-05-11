@@ -8,7 +8,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlgns0705)](https://solved.ac/rlgns0705)
 
 
-<samp>I'm Gihoon Eom from 🇰🇷 Republic of Korea. You can call me **Gihoon**! I'm Undergraduate Student of Computer Science & Engeenering of Kyunghee University. I'm studying hard to be a **Full Stack Developer**. These days, **SERVER** and **DevOps** is my intrests! I'm always open to your contacts so do not hesitate! </samp>
+<samp>I'm Gihoon Eom from 🇰🇷 Republic of Korea. You can call me **Gihoon**! I'm Graduated Student of Computer Science & Engeenering of Kyunghee University. I'm studying hard to be a **Full Stack Developer**. These days, **SERVER** is my intrest! I'm always open to your contacts so do not hesitate! </samp>
 
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-8134af?style=flat-square&logo=instagram&link=https://www.instagram.com/fb_26.55/)](https://www.instagram.com/fb_26.55/)
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@eomgerm)](https://velog.io/@eomgerm)
