@@ -58,13 +58,6 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eomgerm&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 <div align="center">
-<h3>⌛ Coding Time ⌛</h3>
-
-[![eomgerm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eomgerm)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
-<div align="center">
 <h3>🏆 BOJ Profile 🏆</h3>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgns0705)](https://solved.ac/rlgns0705)
