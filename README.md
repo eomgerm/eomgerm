@@ -56,7 +56,15 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomgerm&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![eomgerm's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomgerm&show_icons=true&bg_color=00000000)
+<div align="center">
+  <img src="https://github-profile-toolkit.vercel.app//api/pokemon?user=eomgerm&gen=gen1&starter=dratini" alt="My Pokemon" />
+</div>
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eomgerm&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+</div>
+
 
 </div>
 
