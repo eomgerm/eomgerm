@@ -69,3 +69,7 @@
 [![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app)
 
 <samp>Create your own **Badge** showing current weather. Click the above **Badge** to check out.</samp>
+
+
+------
+[![velog](https://velo-card.profilecard.workers.dev/api?name=eomgerm&layout=thumbnail&theme=nord&tags=)](https://velog.io/@eomgerm)
