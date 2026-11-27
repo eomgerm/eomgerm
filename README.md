@@ -55,7 +55,7 @@
 />
 </a>
 <img src="https://github-profile-toolkit.vercel.app//api/pokemon?user=eomgerm&gen=gen1&starter=dratini" alt="My Pokemon" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eomgerm&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=eomgerm&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 <div align="center">
 <h3>🏆 BOJ Profile 🏆</h3>
@@ -66,9 +66,7 @@
 
 ## Seoul Weather
 
-[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app)
-
-<samp>Create your own **Badge** showing current weather. Click the above **Badge** to check out.</samp>
+[![Seoul Weather](https://wttr.in/Seoul_0pq.png)](https://wttr.in/Seoul)
 
 
 ------
